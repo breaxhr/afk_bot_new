@@ -1,4 +1,3 @@
-
 {
   "name": "welcomebot",
   "version": "1.0.0",
@@ -7,6 +6,7 @@
     "start": "node bot.js"
   },
   "dependencies": {
+    "express": "^4.21.2",
     "mineflayer": "^4.26.0",
     "mineflayer-pathfinder": "^2.4.5",
     "minecraft-data": "^3.80.0"
